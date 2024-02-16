@@ -1,1 +1,4 @@
 Wiktor Arbajter
+‘Witaj Imie Nazwisko  >> index.txt
+echo ‘Witaj Wiktor Arbajter 
+3TP
